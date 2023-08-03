@@ -18670,11 +18670,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/aleksandrlukasuk/Projects/MovieStore/MovieStore/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/Users/aleksandrlukasuk/Projects/MovieStore/MovieStore/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
