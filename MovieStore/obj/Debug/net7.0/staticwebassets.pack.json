@@ -5,8 +5,12 @@
       "PackagePath": "staticwebassets/MovieStore.bundle.scp.css"
     },
     {
-      "Id": "/Users/aleksandrlukasuk/Projects/MovieStore/MovieStore/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "/Users/aleksandrlukasuk/Projects/MovieStore/MovieStore/wwwroot/css/forms.css",
+      "PackagePath": "staticwebassets/css/forms.css"
+    },
+    {
+      "Id": "/Users/aleksandrlukasuk/Projects/MovieStore/MovieStore/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
     },
     {
       "Id": "/Users/aleksandrlukasuk/Projects/MovieStore/MovieStore/wwwroot/favicon.ico",
