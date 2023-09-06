@@ -1,20 +1,40 @@
 ﻿<Properties StartupConfiguration="{C0C5C424-A774-4F44-A307-1E29E088294F}|https">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MovieStore FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieStore.Service/Class1.cs">
+    <Files>
+      <File FileName="MovieStore/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="MovieStore.DAL/Class1.cs" Line="1" Column="1" />
+      <File FileName="MovieStore.Domain/Class1.cs" Line="1" Column="1" />
+      <File FileName="MovieStore.Service/Class1.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MovieStore" expanded="True" selected="True">
-            <Node name="MovieStore" expanded="True" />
+          <Node name="MovieStore">
+            <Node name="DAL" expanded="True">
+              <Node name="MovieStore.DAL" expanded="True" />
+            </Node>
+            <Node name="Domain" expanded="True" />
+            <Node name="Service" expanded="True">
+              <Node name="MovieStore.Service">
+                <Node name="Class1.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="MovieStore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MovieStore FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Domain.MovieStore.Domain FirstBuild="True" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DAL.MovieStore.DAL FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Service.MovieStore.Service FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
